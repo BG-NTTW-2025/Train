@@ -10,42 +10,6 @@
          "objects":[
                 {
                  "height":21,
-                 "id":5,
-                 "name":"",
-                 "opacity":1,
-                 "rotation":0,
-                 "type":"",
-                 "visible":true,
-                 "width":32,
-                 "x":437,
-                 "y":100
-                }, 
-                {
-                 "height":0,
-                 "id":6,
-                 "name":"",
-                 "opacity":1,
-                 "rotation":0,
-                 "type":"",
-                 "visible":true,
-                 "width":0,
-                 "x":499,
-                 "y":70
-                }, 
-                {
-                 "height":18,
-                 "id":7,
-                 "name":"",
-                 "opacity":1,
-                 "rotation":0,
-                 "type":"",
-                 "visible":true,
-                 "width":27,
-                 "x":466,
-                 "y":118
-                }, 
-                {
-                 "height":21,
                  "id":8,
                  "name":"Train1",
                  "opacity":1,
@@ -55,18 +19,6 @@
                  "width":35,
                  "x":467,
                  "y":65
-                }, 
-                {
-                 "height":1,
-                 "id":9,
-                 "name":"",
-                 "opacity":1,
-                 "rotation":0,
-                 "type":"",
-                 "visible":true,
-                 "width":0,
-                 "x":212,
-                 "y":-30
                 }],
          "opacity":1,
          "type":"objectgroup",
