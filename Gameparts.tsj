@@ -1,0 +1,15 @@
+{ "columns":10,
+ "image":"..\/Art\/Org\/Gameparts.png",
+ "imageheight":496,
+ "imagewidth":540,
+ "margin":0,
+ "name":"Gameparts",
+ "spacing":0,
+ "tilecount":80,
+ "tiledversion":"1.12.2",
+ "tileheight":62,
+ "tilewidth":54,
+ "transparentcolor":"#00ff00",
+ "type":"tileset",
+ "version":"1.10"
+}
