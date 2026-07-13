@@ -215,7 +215,7 @@ function FindLayers()
     TrackLayer =
         MapData.layers.find(function(Layer)
         {
-            return Layer.name == "Track" &&
+            return Layer.name == "Tracks" &&
                    Layer.type == "tilelayer";
         });
 
@@ -229,7 +229,7 @@ function FindLayers()
     if(!TrackLayer)
     {
         throw new Error(
-            'Tile Layer "Track" is niet gevonden.'
+            'Tile Layer "Tracks" is niet gevonden.'
         );
     }
 
@@ -591,7 +591,7 @@ function DrawTile(GlobalTileID, TileX, TileY)
 
 
 /*************************************************/
-/* SECTION 14 - DRAW TRACK LAYER                 */
+/* SECTION 14 - DRAW TRACKS LAYER                 */
 /*************************************************/
 
 function DrawTrack()
