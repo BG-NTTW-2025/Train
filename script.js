@@ -4,7 +4,7 @@
 /* SECTION 1 - VERSION AND CANVAS                */
 /*************************************************/
 
-const VERSION = "0.0.1";
+const VERSION = "0.0.2";
 
 const Canvas = document.getElementById("GameCanvas");
 const Ctx = Canvas.getContext("2d");
