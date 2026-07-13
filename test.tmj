@@ -29,8 +29,8 @@
                  "type":"",
                  "visible":true,
                  "width":0,
-                 "x":467,
-                 "y":119
+                 "x":499,
+                 "y":70
                 }, 
                 {
                  "height":18,
@@ -53,8 +53,20 @@
                  "type":"Train",
                  "visible":true,
                  "width":35,
-                 "x":435,
-                 "y":114
+                 "x":467,
+                 "y":65
+                }, 
+                {
+                 "height":1,
+                 "id":9,
+                 "name":"",
+                 "opacity":1,
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":0,
+                 "x":212,
+                 "y":-30
                 }],
          "opacity":1,
          "type":"objectgroup",
@@ -84,7 +96,7 @@
          "y":0
         }],
  "nextlayerid":3,
- "nextobjectid":9,
+ "nextobjectid":10,
  "orientation":"hexagonal",
  "renderorder":"right-up",
  "staggeraxis":"y",
